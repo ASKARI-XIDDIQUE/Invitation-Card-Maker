@@ -1,0 +1,852 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\03eafc74-3308-46d5-a7d5-2894d2cacc00_360_F_632687912_toSKLsNMaCJ1eIKq4zno8DahPHvL15WR.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/03eafc74-3308-46d5-a7d5-2894d2cacc00_360_F_632687912_toSKLsNMaCJ1eIKq4zno8DahPHvL15WR.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\03eafc74-3308-46d5-a7d5-2894d2cacc00_360_F_632687912_toSKLsNMaCJ1eIKq4zno8DahPHvL15WR.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\08e2aa16-34a4-440f-a0e1-47a1191b7966_Te invito.jfif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/08e2aa16-34a4-440f-a0e1-47a1191b7966_Te invito.jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\08e2aa16-34a4-440f-a0e1-47a1191b7966_Te invito.jfif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\0b8c0eae-24ad-4e60-8114-4d2432d545c5_designing-a-creative-poster-in-dark-green-hue-page-border-background-word-template_9a751674b3__1131_1600.avif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/0b8c0eae-24ad-4e60-8114-4d2432d545c5_designing-a-creative-poster-in-dark-green-hue-page-border-background-word-template_9a751674b3__1131_1600.avif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\0b8c0eae-24ad-4e60-8114-4d2432d545c5_designing-a-creative-poster-in-dark-green-hue-page-border-background-word-template_9a751674b3__1131_1600.avif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\1eca1c7c-89c2-41a5-8142-c453a36aa33e_360_F_475813394_0WixuXzrBayNkMfPTeJ3YkJPTN8uzRqg.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/1eca1c7c-89c2-41a5-8142-c453a36aa33e_360_F_475813394_0WixuXzrBayNkMfPTeJ3YkJPTN8uzRqg.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\1eca1c7c-89c2-41a5-8142-c453a36aa33e_360_F_475813394_0WixuXzrBayNkMfPTeJ3YkJPTN8uzRqg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\20ebd8f0-4817-45b1-9fac-43a82b11110c_happy-birthday-background_1344-43.avif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/20ebd8f0-4817-45b1-9fac-43a82b11110c_happy-birthday-background_1344-43.avif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\20ebd8f0-4817-45b1-9fac-43a82b11110c_happy-birthday-background_1344-43.avif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\25aa7d25-dee7-4c62-8271-bbd4ba0f8dc8_images (4).jfif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/25aa7d25-dee7-4c62-8271-bbd4ba0f8dc8_images (4).jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\25aa7d25-dee7-4c62-8271-bbd4ba0f8dc8_images (4).jfif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\28afa4b6-eeee-466a-9dbb-ea19c644aa5a_Screenshot 2024-06-01 170938.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/28afa4b6-eeee-466a-9dbb-ea19c644aa5a_Screenshot 2024-06-01 170938.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\28afa4b6-eeee-466a-9dbb-ea19c644aa5a_Screenshot 2024-06-01 170938.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\29605200-2309-4993-92eb-40ad1b02dfe5_360_F_475813394_0WixuXzrBayNkMfPTeJ3YkJPTN8uzRqg.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/29605200-2309-4993-92eb-40ad1b02dfe5_360_F_475813394_0WixuXzrBayNkMfPTeJ3YkJPTN8uzRqg.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\29605200-2309-4993-92eb-40ad1b02dfe5_360_F_475813394_0WixuXzrBayNkMfPTeJ3YkJPTN8uzRqg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\2d446eff-5a54-4efb-8f93-5272a5bf6c67_gift-card-with-gold-bow-red-frame.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/2d446eff-5a54-4efb-8f93-5272a5bf6c67_gift-card-with-gold-bow-red-frame.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\2d446eff-5a54-4efb-8f93-5272a5bf6c67_gift-card-with-gold-bow-red-frame.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\2e6db019-de6d-4e0c-9c03-57f1bc91ad12_images (1).jfif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/2e6db019-de6d-4e0c-9c03-57f1bc91ad12_images (1).jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\2e6db019-de6d-4e0c-9c03-57f1bc91ad12_images (1).jfif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\36fff74d-63bf-4a57-a45b-3f0d26c33f32_Te invito.jfif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/36fff74d-63bf-4a57-a45b-3f0d26c33f32_Te invito.jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\36fff74d-63bf-4a57-a45b-3f0d26c33f32_Te invito.jfif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\4e2071ff-eea1-4fce-83c9-f20c59b2f757_Screenshot 2024-06-01 155755.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/4e2071ff-eea1-4fce-83c9-f20c59b2f757_Screenshot 2024-06-01 155755.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\4e2071ff-eea1-4fce-83c9-f20c59b2f757_Screenshot 2024-06-01 155755.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\4ff97e4e-1401-4a60-aae9-2b3bc32b92bc_happy-birthday-background_1344-43.avif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/4ff97e4e-1401-4a60-aae9-2b3bc32b92bc_happy-birthday-background_1344-43.avif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\4ff97e4e-1401-4a60-aae9-2b3bc32b92bc_happy-birthday-background_1344-43.avif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\5c0a32ea-1e8c-4e0e-9c66-4dcd98724555_images (2).jfif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/5c0a32ea-1e8c-4e0e-9c66-4dcd98724555_images (2).jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\5c0a32ea-1e8c-4e0e-9c66-4dcd98724555_images (2).jfif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\66601909-aaf0-497e-9aca-424a7c4b8670_images (3).jfif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/66601909-aaf0-497e-9aca-424a7c4b8670_images (3).jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\66601909-aaf0-497e-9aca-424a7c4b8670_images (3).jfif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\68020395-0a68-4284-a138-5876ff749a16_images.jfif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/68020395-0a68-4284-a138-5876ff749a16_images.jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\68020395-0a68-4284-a138-5876ff749a16_images.jfif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\68116855-acd5-4f6a-b2db-21be64992570_download.jfif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/68116855-acd5-4f6a-b2db-21be64992570_download.jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\68116855-acd5-4f6a-b2db-21be64992570_download.jfif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\742aa697-595b-44f8-93eb-b6fd4f59afb2_images.jfif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/742aa697-595b-44f8-93eb-b6fd4f59afb2_images.jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\742aa697-595b-44f8-93eb-b6fd4f59afb2_images.jfif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\75c165a7-1794-4a91-bfe2-e05fb008573b_images.jfif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/75c165a7-1794-4a91-bfe2-e05fb008573b_images.jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\75c165a7-1794-4a91-bfe2-e05fb008573b_images.jfif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\7a77b98e-5bfa-4e1d-af17-b3e758d2aa98_birthday-cake.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/7a77b98e-5bfa-4e1d-af17-b3e758d2aa98_birthday-cake.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\7a77b98e-5bfa-4e1d-af17-b3e758d2aa98_birthday-cake.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\7ce274f9-ad52-4f5b-a8f7-21d81479e3f8_Screenshot 2024-06-01 180550.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/7ce274f9-ad52-4f5b-a8f7-21d81479e3f8_Screenshot 2024-06-01 180550.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\7ce274f9-ad52-4f5b-a8f7-21d81479e3f8_Screenshot 2024-06-01 180550.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\7ed223fc-c5b8-47ca-862f-c5aa30382b56_Screenshot 2024-06-01 173846.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/7ed223fc-c5b8-47ca-862f-c5aa30382b56_Screenshot 2024-06-01 173846.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\7ed223fc-c5b8-47ca-862f-c5aa30382b56_Screenshot 2024-06-01 173846.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\7fe1f99f-e4bc-426b-bcd4-d1d9bece267e_Screenshot 2024-06-01 155818.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/7fe1f99f-e4bc-426b-bcd4-d1d9bece267e_Screenshot 2024-06-01 155818.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\7fe1f99f-e4bc-426b-bcd4-d1d9bece267e_Screenshot 2024-06-01 155818.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\80ab3cc8-8490-49cb-ad31-d84e612d4418_Te invito.jfif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/80ab3cc8-8490-49cb-ad31-d84e612d4418_Te invito.jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\80ab3cc8-8490-49cb-ad31-d84e612d4418_Te invito.jfif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\869cd335-7175-453e-8c07-87aa4224d2d4_a.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/869cd335-7175-453e-8c07-87aa4224d2d4_a.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\869cd335-7175-453e-8c07-87aa4224d2d4_a.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\883ad1dc-b255-4bf3-a4bf-dc138d682a54_a.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/883ad1dc-b255-4bf3-a4bf-dc138d682a54_a.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\883ad1dc-b255-4bf3-a4bf-dc138d682a54_a.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\8ade54de-5541-4abc-beb0-502d3a6cc510_images (3).jfif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/8ade54de-5541-4abc-beb0-502d3a6cc510_images (3).jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\8ade54de-5541-4abc-beb0-502d3a6cc510_images (3).jfif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\8d6c7377-589a-42c4-bf42-43bfd8a436d4_Screenshot 2024-06-01 173846.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/8d6c7377-589a-42c4-bf42-43bfd8a436d4_Screenshot 2024-06-01 173846.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\8d6c7377-589a-42c4-bf42-43bfd8a436d4_Screenshot 2024-06-01 173846.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\8e32b91d-9dd8-4ed8-8cec-86db172fc29c_14924332_remixproject142-sasi-28.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/8e32b91d-9dd8-4ed8-8cec-86db172fc29c_14924332_remixproject142-sasi-28.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\8e32b91d-9dd8-4ed8-8cec-86db172fc29c_14924332_remixproject142-sasi-28.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\8fff61e7-4b1d-4a33-b60e-4ec70c188de4_Screenshot 2024-06-01 155734.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/8fff61e7-4b1d-4a33-b60e-4ec70c188de4_Screenshot 2024-06-01 155734.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\8fff61e7-4b1d-4a33-b60e-4ec70c188de4_Screenshot 2024-06-01 155734.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\93793c8e-6e78-4ea8-92cb-a9833245af1b_designing-a-creative-poster-in-dark-green-hue-page-border-background-word-template_9a751674b3__1131_1600.avif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/93793c8e-6e78-4ea8-92cb-a9833245af1b_designing-a-creative-poster-in-dark-green-hue-page-border-background-word-template_9a751674b3__1131_1600.avif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\93793c8e-6e78-4ea8-92cb-a9833245af1b_designing-a-creative-poster-in-dark-green-hue-page-border-background-word-template_9a751674b3__1131_1600.avif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\978237cf-7ec9-48a8-9862-7b5f66ca0a75_360_F_475813394_0WixuXzrBayNkMfPTeJ3YkJPTN8uzRqg.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/978237cf-7ec9-48a8-9862-7b5f66ca0a75_360_F_475813394_0WixuXzrBayNkMfPTeJ3YkJPTN8uzRqg.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\978237cf-7ec9-48a8-9862-7b5f66ca0a75_360_F_475813394_0WixuXzrBayNkMfPTeJ3YkJPTN8uzRqg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\9c5cc698-579f-4026-8041-71814f681e05_Screenshot 2024-06-01 161549.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/9c5cc698-579f-4026-8041-71814f681e05_Screenshot 2024-06-01 161549.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\9c5cc698-579f-4026-8041-71814f681e05_Screenshot 2024-06-01 161549.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\9c7b5a14-89d8-48b5-9732-8a9a3ec26c7b_images (1).jfif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/9c7b5a14-89d8-48b5-9732-8a9a3ec26c7b_images (1).jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\9c7b5a14-89d8-48b5-9732-8a9a3ec26c7b_images (1).jfif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\a0669408-ab0c-4976-b6a2-0b10513e9d08_love-message.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/a0669408-ab0c-4976-b6a2-0b10513e9d08_love-message.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\a0669408-ab0c-4976-b6a2-0b10513e9d08_love-message.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\a2cf371e-4af7-4061-ab81-4de5f5c77799_images (5).jfif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/a2cf371e-4af7-4061-ab81-4de5f5c77799_images (5).jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\a2cf371e-4af7-4061-ab81-4de5f5c77799_images (5).jfif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\a6d55bc0-fd2d-4ead-bb1a-fff0ae19ac40_rm112-jj-016.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/a6d55bc0-fd2d-4ead-bb1a-fff0ae19ac40_rm112-jj-016.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\a6d55bc0-fd2d-4ead-bb1a-fff0ae19ac40_rm112-jj-016.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\b2c3be1f-7ecf-4737-8e6d-0b65ca99a36f_4520379_93523.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/b2c3be1f-7ecf-4737-8e6d-0b65ca99a36f_4520379_93523.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\b2c3be1f-7ecf-4737-8e6d-0b65ca99a36f_4520379_93523.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\b590636a-7171-4932-b390-a219bdbbfead_images.jfif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/b590636a-7171-4932-b390-a219bdbbfead_images.jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\b590636a-7171-4932-b390-a219bdbbfead_images.jfif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\b6272510-9475-40ef-a323-d4cda20f4c70_Te invito.jfif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/b6272510-9475-40ef-a323-d4cda20f4c70_Te invito.jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\b6272510-9475-40ef-a323-d4cda20f4c70_Te invito.jfif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\b9e553a1-a596-437a-8755-6fc9354c4b58_images (3).jfif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/b9e553a1-a596-437a-8755-6fc9354c4b58_images (3).jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\b9e553a1-a596-437a-8755-6fc9354c4b58_images (3).jfif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\bd486be4-480d-4313-abbc-77f6f385b417_a.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/bd486be4-480d-4313-abbc-77f6f385b417_a.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\bd486be4-480d-4313-abbc-77f6f385b417_a.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\be2fc0b1-258d-4162-bda2-2ad36299e37c_142912-cool-pink-business-background-template.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/be2fc0b1-258d-4162-bda2-2ad36299e37c_142912-cool-pink-business-background-template.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\be2fc0b1-258d-4162-bda2-2ad36299e37c_142912-cool-pink-business-background-template.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\bf28db7c-2d35-4ce7-b4f2-ff0ee0bea6eb_gift.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/bf28db7c-2d35-4ce7-b4f2-ff0ee0bea6eb_gift.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\bf28db7c-2d35-4ce7-b4f2-ff0ee0bea6eb_gift.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\d099c3a2-cb5a-4700-ac5d-2e4e63e2a7e8_360_F_475813394_0WixuXzrBayNkMfPTeJ3YkJPTN8uzRqg.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/d099c3a2-cb5a-4700-ac5d-2e4e63e2a7e8_360_F_475813394_0WixuXzrBayNkMfPTeJ3YkJPTN8uzRqg.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\d099c3a2-cb5a-4700-ac5d-2e4e63e2a7e8_360_F_475813394_0WixuXzrBayNkMfPTeJ3YkJPTN8uzRqg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\d5d03632-c6fc-47a0-be9c-58b8c355ea32_images (1).jfif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/d5d03632-c6fc-47a0-be9c-58b8c355ea32_images (1).jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\d5d03632-c6fc-47a0-be9c-58b8c355ea32_images (1).jfif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\da1f0e71-1a45-4d84-8f93-749c112045f4_love-letter.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/da1f0e71-1a45-4d84-8f93-749c112045f4_love-letter.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\da1f0e71-1a45-4d84-8f93-749c112045f4_love-letter.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\def16972-64e5-4bda-9894-3bdc64d917d7_360_F_512202172_jfpZFlxHVmbpgzj53AfESns0UBrIv2Wd.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/def16972-64e5-4bda-9894-3bdc64d917d7_360_F_512202172_jfpZFlxHVmbpgzj53AfESns0UBrIv2Wd.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\def16972-64e5-4bda-9894-3bdc64d917d7_360_F_512202172_jfpZFlxHVmbpgzj53AfESns0UBrIv2Wd.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\e8c23179-99ac-40fc-8d32-a0c449d197e9_cupcake.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/e8c23179-99ac-40fc-8d32-a0c449d197e9_cupcake.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\e8c23179-99ac-40fc-8d32-a0c449d197e9_cupcake.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\ecd18b0b-124a-4345-a9e0-991781b3f6a9_imagesss.jfif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/ecd18b0b-124a-4345-a9e0-991781b3f6a9_imagesss.jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\ecd18b0b-124a-4345-a9e0-991781b3f6a9_imagesss.jfif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edcd980e-fa0d-4c92-b044-6cd984a02285_images (3).jfif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/edcd980e-fa0d-4c92-b044-6cd984a02285_images (3).jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\edcd980e-fa0d-4c92-b044-6cd984a02285_images (3).jfif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\f561e7aa-dee1-43d4-9c99-3f3be89d4b19_balloons.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/f561e7aa-dee1-43d4-9c99-3f3be89d4b19_balloons.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\f561e7aa-dee1-43d4-9c99-3f3be89d4b19_balloons.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\f91f3cd0-3ff0-497f-9526-dd445d7cde4f_futuristic-background1622641945.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>Invitation_Card_Maker</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Invitation_Card_Maker</BasePath>
+      <RelativePath>uploads/f91f3cd0-3ff0-497f-9526-dd445d7cde4f_futuristic-background1622641945.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\f91f3cd0-3ff0-497f-9526-dd445d7cde4f_futuristic-background1622641945.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>
